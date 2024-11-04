@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a microservice project**
 
-- 🌱 I’m currently learning **Vaading , a java web dev framework**
+- 🌱 I’m currently learning **Vaadin , a java web dev framework**
 
 - 👯 I’m looking to collaborate on **freelancing projects**
 
