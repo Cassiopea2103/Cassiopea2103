@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **freelancing projects**
 
-- 👨‍💻 My portfolio is available at [](https://cassiopea-portfolio.netlify.app/)
+- 👨‍💻 My portfolio is available [here](https://cassiopea-portfolio.netlify.app/)
 
 - 💬 Ask me about **React js , Express , Ansible, K8s , Jenkins , Docker ...**
 
