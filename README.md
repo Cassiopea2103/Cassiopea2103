@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **wadess@ept.sn**
 
-- 📄 Know about my experiences [soon](soon)
-
-- ⚡ Fun fact **You've never found me and Batman in the same room !**
+- ⚡ Fun fact **You've never found me in the same room as Batman ! Bcuz I am batman...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
