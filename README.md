@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a microservice project**
 
-- 🌱 I’m currently learning **Vaadin , a java web dev framework**
+- 🌱 I’m currently learning **Spring Security w/ Keycloak**
 
 - 👯 I’m looking to collaborate on **freelancing projects**
 
 - 👨‍💻 All of my projects are available at [dropping soon](dropping soon)
 
-- 💬 Ask me about **React js , Ansible, K8s , Jenkins...**
+- 💬 Ask me about **React js , Express , Ansible, K8s , Jenkins , Docker ...**
 
 - 📫 How to reach me **wadess@ept.sn**
 
