@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serigne Saliou WADE</h1>
 <h3 align="center">Computer science engineering student @ EPT .</h3>
 
-- 🔭 I’m currently working on **a microservice project**
+- 🔭 I’m currently working on **a spring boot e-commerce microservice project**
 
 - 🌱 I’m currently learning **Spring Security w/ Keycloak**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wadess@ept.sn**
 
-- ⚡ Fun fact **You've never found me in the same room as Batman ! Bcuz I am batman...**
+- ⚡ Fun fact **You've never found me in the same room as Batman ! Bcuz I am Batman...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
