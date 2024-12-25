@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cassiopea21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassiopea21" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19264318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19264318" height="30" width="40" /></a>
+<a href="https://cassiopea-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f89ca7cd-2a42-43d6-a70f-924f47862e20" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
