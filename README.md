@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Serigne Saliou WADE</h1>
 <h3 align="center">Computer science engineering student @ EPT .</h3>
 
-- 🔭 I’m currently working on **a spring boot e-commerce microservice project**
+- 🔭 I’m currently working on **a spring boot healthcare microservice project**
 
-- 🌱 I’m currently learning **Spring Security w/ Keycloak**
+- 🌱 I’m currently learning **mobile with Kotlin**
 
-- 👯 I’m looking to collaborate on **freelancing projects**
+- 👯 I’m looking to collaborate on **freelancing projects/ any other relevant project**
 
 - 👨‍💻 My portfolio is available [here](https://cassiopea-portfolio.netlify.app/)
 
-- 💬 Ask me about **React js , Express , Ansible, K8s , Jenkins , Docker ...**
+- 💬 Ask me about **React , Ansible, K8s , Jenkins , Docker ...**
 
 - 📫 How to reach me **wadess@ept.sn**
 
