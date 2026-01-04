@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **a spring boot healthcare microservice project**
 
-- 🌱 I’m currently learning **mobile with Kotlin**
-
 - 👯 I’m looking to collaborate on **freelancing projects/ any other relevant project**
 
 - 👨‍💻 My portfolio is available [here](https://cassiopea-portfolio.netlify.app/)
